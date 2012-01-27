@@ -26,10 +26,10 @@
 			padding: 15,
 			margin: 20,
 
-			width: 800,
-			height: 600,
-			minWidth: 200,
-			minHeight: 200,
+			width: 1600,
+			height: 1200,
+			minWidth: 400,
+			minHeight: 400,
 			maxWidth: 9999,
 			maxHeight: 9999,
 
@@ -48,7 +48,7 @@
 			nextClick : false,
 			mouseWheel: true,
 			autoPlay: false,
-			playSpeed: 3000,
+			playSpeed: 7000,
 
 			modal: false,
 			loop: true,

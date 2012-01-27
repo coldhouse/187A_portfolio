@@ -1,0 +1,46 @@
+
+
+
+
+body {
+	background-color: white;
+	margin: 0;
+	font-family: helvetica neue;
+	font-size: 13px;
+	line-height: 19px;
+	}
+	
+.contact{
+	width: 470px;
+	margin-left: auto;
+	margin right: auto;
+	}
+
+/*--footer--*/
+
+footer {
+		min-height:100px;
+		overflow:hidden;
+        position: absolute ;
+        font-size: 17px;
+        margin: 0; left 20; 
+        z-index: 5;            
+        } 
+footer1 {
+		font-size: 11px;
+		position: absolute;
+		left: 150px;
+		
+
+        
+	}
+	}
+	footer a:hover{
+          		color:#158FB0;
+		text-decoration:underline
+			}
+			
+navi {
+		background-color: white smoke;
+
+indexbody {font-size: 17px;}
